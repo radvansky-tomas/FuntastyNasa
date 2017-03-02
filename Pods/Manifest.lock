@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - AsyncSwift (2.0.1)
+  - MPParallaxView (0.3.0)
+  - MXParallaxHeader (0.6.1)
+  - ObjectMapper (2.2.5)
+  - ReachabilitySwift (3)
+  - Realm (2.4.3):
+    - Realm/Headers (= 2.4.3)
+  - Realm/Headers (2.4.3)
+  - RealmSwift (2.4.3):
+    - Realm (= 2.4.3)
+  - SwiftDate (4.0.13)
+  - SwiftLocation (2.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireObjectMapper (~> 4.0)
+  - AsyncSwift
+  - MPParallaxView
+  - MXParallaxHeader
+  - ReachabilitySwift (~> 3)
+  - RealmSwift
+  - SwiftDate (~> 4.0)
+  - SwiftLocation
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  AsyncSwift: 632138e42ead868b53c745fcde9bf733ce1527ad
+  MPParallaxView: ec6a0aca8b592a27c34daaf1dfc738245ae4213c
+  MXParallaxHeader: 858c403532ed933b381556a81ce333d7065ad182
+  ObjectMapper: fb30f71e08470d1e5a20b199fafe1246281db898
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: e08d60b0048ccccd3949c8c28a92c4db5712d7e9
+  RealmSwift: 30d49739ccb3385d201242736ca4dda56aec9dfc
+  SwiftDate: 8ec416bb1b5129d1f35e8efaed720421f41d42df
+  SwiftLocation: 3c66807be3cc511d6b3496fcccd7ba05d839f23b
+
+PODFILE CHECKSUM: be10528f4ee623cd3aefc6248d1de75c96916015
+
+COCOAPODS: 1.2.0
